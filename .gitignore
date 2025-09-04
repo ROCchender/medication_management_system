@@ -1,5 +1,6 @@
 # Python虚拟环境
 venv/
+.venv/
 
 # 字节码文件
 __pycache__/
